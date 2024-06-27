@@ -1,0 +1,89 @@
+.body{
+    margin: 0px;
+}
+
+.section1-wrap{
+    background-image: url(images/northernlight.avif);
+    height: 336px;
+    background-size: 100% 50rem;
+    background-position-x: 0px;
+    background-position-y: -250px;
+    /* min-height: 336px; */
+    background-repeat: no-repeat;
+}
+
+.main-head{
+    letter-spacing: 6px;
+}
+
+.main-head-italic{
+    font-style: italic;
+}
+
+.motto{
+    font-size: 1.1rem;
+}
+
+.motto-span{
+    font-weight: 600;
+}
+
+.demo-font{
+    font-size: .8rem;
+    font-weight: 600;
+    letter-spacing: 2px;
+}
+
+.icon-container{
+    width: 1200px;
+    margin: auto;
+    justify-content: space-around;
+}
+
+.jet-icon{
+    background-color: rgb(10, 156, 235);
+    height: 7rem;
+    width: 7rem;
+    font-size: 3rem;
+    border-radius: 50%;
+    padding-top: 18px;
+    text-align: center;
+}
+
+.tool-icon{
+    background-color: rgb(10, 156, 235);
+    height: 7rem;
+    width: 7rem;
+    font-size: 3rem;
+    border-radius: 50%;
+    padding-top: 18px;
+    text-align: center;
+}
+
+.love-icon{
+    background-color: rgb(10, 156, 235);
+    height: 7rem;
+    width: 7rem;
+    font-size: 3rem;
+    border-radius: 50%;
+    padding-top: 18px;
+    text-align: center;
+}
+
+.heading-container{
+    width: 1200px;
+    margin: auto;
+    justify-content: space-around;
+}
+
+.para-container{
+    width: 1200px;
+    margin: auto;
+    justify-content: space-around;
+}
+
+.para-style{
+    width: 22rem;
+    font-size: 0.9rem;
+    text-align: center;
+}
